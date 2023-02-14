@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-mezbah/static/css/main.fe71e6fd.css",
+    "main.js": "/portfolio-mezbah/static/js/main.d8696030.js",
+    "static/media/c1.jpg": "/portfolio-mezbah/static/media/c1.dd1199ff164610603d2a.jpg",
+    "static/media/c2.jpg": "/portfolio-mezbah/static/media/c2.06e59f8cb9cfc4663820.jpg",
+    "static/media/project_pic_1.png": "/portfolio-mezbah/static/media/project_pic_1.1565f00c9d4b905b7b70.png",
+    "static/media/me_2.png": "/portfolio-mezbah/static/media/me_2.ba0f22c4f9efe057d52f.png",
+    "static/media/cv.pdf": "/portfolio-mezbah/static/media/cv.efe95ab4c0fc1d182f20.pdf",
+    "static/media/my-bg.png": "/portfolio-mezbah/static/media/my-bg.0cf671dce40723aa3efb.png",
+    "static/media/me.png": "/portfolio-mezbah/static/media/me.d63880f8069e70cea4f9.png",
+    "static/media/project_pic_2.png": "/portfolio-mezbah/static/media/project_pic_2.72a42f47b956d823542f.png",
+    "index.html": "/portfolio-mezbah/index.html",
+    "main.fe71e6fd.css.map": "/portfolio-mezbah/static/css/main.fe71e6fd.css.map",
+    "main.d8696030.js.map": "/portfolio-mezbah/static/js/main.d8696030.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe71e6fd.css",
+    "static/js/main.d8696030.js"
+  ]
+}
